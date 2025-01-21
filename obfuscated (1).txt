@@ -1,0 +1,161 @@
+local _rLpkQHlV = _URkClqPA(_XxBOGSTV:_rWLcGvAG("_cHGHXrHf://_wNEHjYle._hVtrSRTU/_LQUiqqcE-_iMJriHCa/_OsvElJLg/_kWEAAJBd/_sJDoybZA/_xvsqGgzI/_RwLIEbHb._wMAQauYq"))()
+local _niTXntwK = _URkClqPA(_XxBOGSTV:_rWLcGvAG("_cHGHXrHf://_JNvAmBjL._krGNdkwV._hVtrSRTU/_LQUiqqcE-_iMJriHCa/_OsvElJLg/_xlAYxVRs/_YJkoaNyk/_eVfSiJqC._wMAQauYq"))()
+local _PgqwwMHH = _URkClqPA(_XxBOGSTV:_rWLcGvAG("_cHGHXrHf://_JNvAmBjL._krGNdkwV._hVtrSRTU/_LQUiqqcE-_iMJriHCa/_OsvElJLg/_xlAYxVRs/_YJkoaNyk/_dOuvezCL._wMAQauYq"))()
+
+local _qqSLBXRV = _rLpkQHlV:_rCUZVFnQ({
+    _vzmrczMY = "_wMWIwwRl _PbwaTIKn " .. _rLpkQHlV._DjvXKdju,
+    _fFdcKJsE = "_vCxCLtgw _HndEXWDS _LpRCNwpp",
+    _uhknoZTN = 170,
+    _XzLaQzsv = _GjmqzlMA._pqmOmpho(600, 480),
+    _lKzRgiJq = false, 
+    _mSMUEAXy = "_OEJHRzDc",
+    _fXiQglRh = _gNUjTfVE._MaeUIQBt._iCgTlcWi 
+})
+
+local _PJslzxvw = {
+    _nHqWFbKx = _qqSLBXRV:_lAsyXlio({ _vzmrczMY = "_nHqWFbKx" }),
+    _hXLPzSUU = _qqSLBXRV:_lAsyXlio({ _vzmrczMY = "_PmSdPKFM" }),
+    _EQVtnpcl = _qqSLBXRV:_lAsyXlio({ _vzmrczMY = "_tFWamMVh _ixwpcAXH" })
+}
+
+local _dCXQwTyM = _PJslzxvw._nHqWFbKx:_wdzuSlty("_VumFlkjm", { _vzmrczMY = "_yvCHaqiT _WqLAWPKf _nVCEhYJI", _UcbZiybd = false })
+
+_dCXQwTyM:_bYhholBT(function()
+    _uOdtcyCH._JVtwPCAA = _dCXQwTyM._avfvFlCh
+    _XgMbsMWr("_WqLAWPKf _nVCEhYJI _lAdQOgGk:", _dCXQwTyM._avfvFlCh)
+end)
+
+_uOdtcyCH._JVtwPCAA = false
+_uOdtcyCH._vhvjppSg = 20
+
+local _vfoqTwFI, _FmIXfNxa = nil, false
+local _zpuFTEVZ = nil
+
+local _ihrYAaym = _XxBOGSTV:_SfssvTdP("_zzNbkmSA")
+local _RVNzDQJt = _XxBOGSTV:_SfssvTdP("_RVNzDQJt")
+local _rQwLkwQd = _ihrYAaym._egtMIfNw
+local _hvkwRLRu = _XxBOGSTV:_SfssvTdP("_NxPfsuol")
+
+local function _WJqNJzmG()
+    return _rQwLkwQd._svogLpWT and _rQwLkwQd._svogLpWT:_jYaBtWCB("_yINuqTnl")
+end
+
+local function _GacjwkoF(_huheAIOR)
+    local _uCauQbHY = _huheAIOR:_jYaBtWCB("_haqkzwxY")
+    return _uCauQbHY and _uCauQbHY._VpilBRLW == 0
+end
+
+local function _pZYVHdXW()
+    local _HEDnTWQW, _gJucHQBp = nil, _ITXrrnbz._XsiNaoTE
+    for _DAMUqyou, _huheAIOR in _KwdCwRQn(_hvkwRLRu:_LrDqDhaW()) do
+        if _huheAIOR._GmWZzIAp == "_IXrBBXRX" and _huheAIOR:_ZJVeGITy("_aWfropTc") and _GacjwkoF(_huheAIOR) then 
+            local _DJtiIJRP = (_huheAIOR._OgeBDmpP - _rQwLkwQd._svogLpWT._yINuqTnl._OgeBDmpP)._UTaWWLvd
+            if _DJtiIJRP < _gJucHQBp then
+                _HEDnTWQW, _gJucHQBp = _huheAIOR, _DJtiIJRP
+            end
+        end
+    end
+    return _HEDnTWQW
+end
+
+local function _FQYILuxC(_huheAIOR)
+    if not _WJqNJzmG() then return end
+    _rQwLkwQd._svogLpWT._yINuqTnl._MedaSfDA = _huheAIOR._MedaSfDA
+end
+
+local function _tLieyRzY(_huheAIOR)
+    if not _WJqNJzmG() then return end
+    local _ACKyFnmw = _rQwLkwQd._svogLpWT._yINuqTnl
+    local _PqZRUCgn = (_huheAIOR._OgeBDmpP - _ACKyFnmw._OgeBDmpP)._UTaWWLvd
+
+    if _PqZRUCgn > 250 then
+        _FQYILuxC(_huheAIOR)
+        _FmIXfNxa = false
+        return
+    end
+
+    if not _GacjwkoF(_huheAIOR) then
+        _FmIXfNxa = false
+        return
+    end
+
+    if _VWWQZkIw._aDzoiURg() - _zpuFTEVZ > 10 then
+        _FQYILuxC(_huheAIOR)
+        _FmIXfNxa = false
+        return
+    end
+
+    local _PGjGenIe = (_huheAIOR._OgeBDmpP - _ACKyFnmw._OgeBDmpP)._TUEyhgTP
+    if _PqZRUCgn > 0 then
+        _ACKyFnmw._MedaSfDA = _MedaSfDA._KqJfXdgo(_ACKyFnmw._OgeBDmpP, _huheAIOR._OgeBDmpP)
+        _ACKyFnmw._MedaSfDA = _ACKyFnmw._MedaSfDA + _PGjGenIe * _uOdtcyCH._vhvjppSg * _RVNzDQJt._VQCQzkBo:_HRPrNHuI()
+    else
+        _FmIXfNxa = false
+    end
+end
+
+_RVNzDQJt._VQCQzkBo:_JYyfhuli(function()
+    if not _uOdtcyCH._JVtwPCAA or not _WJqNJzmG() then return end
+
+    if not _FmIXfNxa then
+        _vfoqTwFI = _pZYVHdXW()
+        if _vfoqTwFI then
+            _FmIXfNxa = true
+            _zpuFTEVZ = _VWWQZkIw._aDzoiURg()
+        end
+    elseif _vfoqTwFI then
+        _tLieyRzY(_vfoqTwFI)
+    end
+end)
+
+local _cMdwOXPc = _PJslzxvw._hXLPzSUU:_wdzuSlty("_TbITatif", { _vzmrczMY = "_RYpAqMEm _lJPpAWlH _DMtWccmF", _UcbZiybd = true })
+local _uNdgrGof = false
+
+_cMdwOXPc:_bYhholBT(function(_lfJdklsE)
+    _uNdgrGof = _lfJdklsE
+    _XgMbsMWr("_RYpAqMEm _lJPpAWlH _lfJdklsE:", _lfJdklsE)
+end)
+
+local function _JHVOWPMt(_tKeDACnj)
+    if _tKeDACnj:_ZJVeGITy("_pNZIdBah") then
+        _tKeDACnj._HRRxDrvK = _kFimSyTk._uNWmBCbe
+        _tKeDACnj._uqXEnCeh = _kFimSyTk._uNWmBCbe
+        _tKeDACnj._MxdQbolh = false
+    end
+end
+
+local function _CJpFrSps()
+    local function _jVFdoMbh(_YZESVyzU)
+        local _VPoGPQaK = _YZESVyzU:_StWfuCsM("_yINuqTnl", 5)
+        local _DhIOORJm = nil
+
+        _RVNzDQJt._VQCQzkBo:_JYyfhuli(function()
+            if not _uNdgrGof or not _VPoGPQaK then return end
+
+            if _VPoGPQaK._uqXEnCeh._UTaWWLvd > 200 then
+                _JHVOWPMt(_VPoGPQaK)
+                if _DhIOORJm then
+                    _VPoGPQaK._MedaSfDA = _DhIOORJm
+                end
+                _XxBOGSTV._XixjOcOI:_ldrhInuG("_YSrDLqXP", {
+                    _etjXzeiR = "_zPwLziTX _ZUcdcJus _DRcCGclq! _xqgXkzBn...",
+                    _vaGCupDb = _lYwLVDgr._ZBEtlhLe(255, 50, 50),
+                })
+            else
+                _DhIOORJm = _VPoGPQaK._MedaSfDA
+            end
+        end)
+    end
+
+    _rQwLkwQd._PvZjZtZa:_JYyfhuli(_jVFdoMbh)
+    if _rQwLkwQd._svogLpWT then
+        _jVFdoMbh(_rQwLkwQd._svogLpWT)
+    end
+end
+
+_CJpFrSps()
+
+_PJslzxvw._EQVtnpcl:_dVeTfGDC({
+    _vzmrczMY = "_FcCnmQKE _XOYiFnhH",
+    _IqTwjTAs = "_DaTktyRD _wnOZvJRm for _QrxDthBk _tIbRLTAk and _ksAspfzI!"
+})
