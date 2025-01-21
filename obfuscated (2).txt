@@ -1,0 +1,161 @@
+local _AMRxncjQ = _UNtANKaC(_MzeMaDKJ:_TgBddmTP("_HjvPxzMK://_SHLDjfQw._HATdtiqc/_ZsVNuyKR-_BCVwJfaB/_txBINYJa/_vKGmxCmD/_erUpHSfR/_fUEMQowz/_bZmPqUpX._GLEVqKqf"))()
+local _LIaJIusp = _UNtANKaC(_MzeMaDKJ:_TgBddmTP("_HjvPxzMK://_qTQlOpCG._TbOgnHyX._HATdtiqc/_ZsVNuyKR-_BCVwJfaB/_txBINYJa/_ZhSRGCaT/_HAXIRXuu/_EfUMsbiJ._GLEVqKqf"))()
+local _GWHzTeFS = _UNtANKaC(_MzeMaDKJ:_TgBddmTP("_HjvPxzMK://_qTQlOpCG._TbOgnHyX._HATdtiqc/_ZsVNuyKR-_BCVwJfaB/_txBINYJa/_ZhSRGCaT/_HAXIRXuu/_wMquMUYX._GLEVqKqf"))()
+
+local _BIFoAUBC = _AMRxncjQ:_LsOPPxYR({
+    _dLnTeczf = "_UdRIoETU _AiXaGlPH " .. _AMRxncjQ._PfHDpodW,
+    _ZQSEqDay = "_YRdBrOZP _ixuPtLlX _OJDwGYIK",
+    _yWdWAddX = 170,
+    _iiAmMhSZ = _ZNvnADMG._aFkxvGik(600, 480),
+    _QSPAhrHE = false, 
+    _aCSWnYVb = "_JAVeejbs",
+    _EPUUadId = _BNViUCeB._QLbZzYzQ._GEQKvoQR 
+})
+
+local _QErEoLdU = {
+    _jQZyOmEq = _BIFoAUBC:_ozJvvzNs({ _dLnTeczf = "_jQZyOmEq" }),
+    _tuLqEpwP = _BIFoAUBC:_ozJvvzNs({ _dLnTeczf = "_LEoFwKPb" }),
+    _hTJnTXtT = _BIFoAUBC:_ozJvvzNs({ _dLnTeczf = "_KZueeHsm _dWyVjkVw" })
+}
+
+local _OjqhDyfG = _QErEoLdU._jQZyOmEq:_LwlOQaUA("_iNNAjRVr", { _dLnTeczf = "_idWHECzz _CxubuvqX _bnrUxUgR", _aaclLGTm = false })
+
+_OjqhDyfG:_iImPamdC(function()
+    _yzsiQtOB._wyBZnDOS = _OjqhDyfG._dktpCXJG
+    print("_CxubuvqX _bnrUxUgR _Ttqglmsf:", _OjqhDyfG._dktpCXJG)
+end)
+
+_yzsiQtOB._wyBZnDOS = false
+_yzsiQtOB._tIPqHVTc = 20
+
+local _fKXrPShZ, _QtAUhBJb = nil, false
+local _kBtSFLns = nil
+
+local _uuDfMyRm = _MzeMaDKJ:_qGEkcKfG("_ESfQJTAG")
+local _jAaatbWM = _MzeMaDKJ:_qGEkcKfG("_jAaatbWM")
+local _BiDyBddt = _uuDfMyRm._jebsXrJG
+local _yiHpuPux = _MzeMaDKJ:_qGEkcKfG("_hvXldvNX")
+
+local function _VPfqahUu()
+    return _BiDyBddt._zGCMVsUr and _BiDyBddt._zGCMVsUr:_XtjClIJg("_SoenPWJJ")
+end
+
+local function _fTSaUFVh(_sKmMDIIb)
+    local _mmVdeEFU = _sKmMDIIb:_XtjClIJg("_YuHNHhDq")
+    return _mmVdeEFU and _mmVdeEFU._wmFsewmW == 0
+end
+
+local function _CziebHvD()
+    local _dDyiokIG, _YyLyxQjI = nil, math._XRVTafVk
+    for _ghrlOcUq, _sKmMDIIb in ipairs(_yiHpuPux:_OxBgbDtQ()) do
+        if _sKmMDIIb._OOhVVQau == "_hFXXnFth" and _sKmMDIIb:_smNoLfzU("_axyooLcV") and _fTSaUFVh(_sKmMDIIb) then 
+            local _wDfEndtI = (_sKmMDIIb._CDSiNAJP - _BiDyBddt._zGCMVsUr._SoenPWJJ._CDSiNAJP)._vbTlDdyG
+            if _wDfEndtI < _YyLyxQjI then
+                _dDyiokIG, _YyLyxQjI = _sKmMDIIb, _wDfEndtI
+            end
+        end
+    end
+    return _dDyiokIG
+end
+
+local function _XdRUSBam(_sKmMDIIb)
+    if not _VPfqahUu() then return end
+    _BiDyBddt._zGCMVsUr._SoenPWJJ._oySEtmkK = _sKmMDIIb._oySEtmkK
+end
+
+local function _PJStKlhA(_sKmMDIIb)
+    if not _VPfqahUu() then return end
+    local _BYHhVygo = _BiDyBddt._zGCMVsUr._SoenPWJJ
+    local _zSaOsJdQ = (_sKmMDIIb._CDSiNAJP - _BYHhVygo._CDSiNAJP)._vbTlDdyG
+
+    if _zSaOsJdQ > 250 then
+        _XdRUSBam(_sKmMDIIb)
+        _QtAUhBJb = false
+        return
+    end
+
+    if not _fTSaUFVh(_sKmMDIIb) then
+        _QtAUhBJb = false
+        return
+    end
+
+    if _YznEgDUt._pGTsmxov() - _kBtSFLns > 10 then
+        _XdRUSBam(_sKmMDIIb)
+        _QtAUhBJb = false
+        return
+    end
+
+    local _NklLrzyj = (_sKmMDIIb._CDSiNAJP - _BYHhVygo._CDSiNAJP)._wZttEgtW
+    if _zSaOsJdQ > 0 then
+        _BYHhVygo._oySEtmkK = _oySEtmkK._tEffLFdN(_BYHhVygo._CDSiNAJP, _sKmMDIIb._CDSiNAJP)
+        _BYHhVygo._oySEtmkK = _BYHhVygo._oySEtmkK + _NklLrzyj * _yzsiQtOB._tIPqHVTc * _jAaatbWM._kkNLImTn:_OoRmCDkh()
+    else
+        _QtAUhBJb = false
+    end
+end
+
+_jAaatbWM._kkNLImTn:_roQhcusn(function()
+    if not _yzsiQtOB._wyBZnDOS or not _VPfqahUu() then return end
+
+    if not _QtAUhBJb then
+        _fKXrPShZ = _CziebHvD()
+        if _fKXrPShZ then
+            _QtAUhBJb = true
+            _kBtSFLns = _YznEgDUt._pGTsmxov()
+        end
+    elseif _fKXrPShZ then
+        _PJStKlhA(_fKXrPShZ)
+    end
+end)
+
+local _ZnyIDMpb = _QErEoLdU._tuLqEpwP:_LwlOQaUA("_wiFVYOuv", { _dLnTeczf = "_LPZFBMrR _eYpFkhzj _KVpahZBq", _aaclLGTm = true })
+local _yRwQmFrC = false
+
+_ZnyIDMpb:_iImPamdC(function(_gzOJlFCZ)
+    _yRwQmFrC = _gzOJlFCZ
+    print("_LPZFBMrR _eYpFkhzj _gzOJlFCZ:", _gzOJlFCZ)
+end)
+
+local function _PMLawMzq(_bNFYEzww)
+    if _bNFYEzww:_smNoLfzU("_uQkMHIEp") then
+        _bNFYEzww._wAAZTmMk = _GsHvyIdn._DXDCmCOs
+        _bNFYEzww._hrwEwYQV = _GsHvyIdn._DXDCmCOs
+        _bNFYEzww._HzRzmkMe = false
+    end
+end
+
+local function _uiNelYdt()
+    local function _XIVnOupq(_crkQaDGx)
+        local _UkTNekQN = _crkQaDGx:_CXgeGIXu("_SoenPWJJ", 5)
+        local _SrbNVkCl = nil
+
+        _jAaatbWM._kkNLImTn:_roQhcusn(function()
+            if not _yRwQmFrC or not _UkTNekQN then return end
+
+            if _UkTNekQN._hrwEwYQV._vbTlDdyG > 200 then
+                _PMLawMzq(_UkTNekQN)
+                if _SrbNVkCl then
+                    _UkTNekQN._oySEtmkK = _SrbNVkCl
+                end
+                _MzeMaDKJ._fljBnVWu:_KcZiGTIa("_jLUEHOSs", {
+                    _SJkUPnLx = "_fUOaEjTc _aTOzbGxY _xGiXLviy! _nGPUSujo...",
+                    _HgMJYjfM = _MuJoeZTF._FloHcOqE(255, 50, 50),
+                })
+            else
+                _SrbNVkCl = _UkTNekQN._oySEtmkK
+            end
+        end)
+    end
+
+    _BiDyBddt._SlaEnpIO:_roQhcusn(_XIVnOupq)
+    if _BiDyBddt._zGCMVsUr then
+        _XIVnOupq(_BiDyBddt._zGCMVsUr)
+    end
+end
+
+_uiNelYdt()
+
+_QErEoLdU._hTJnTXtT:_QssxHrFg({
+    _dLnTeczf = "_iZWJGXLd _ATCvLgFl",
+    _IUzgqjvd = "_CPimDYMp _cqXOjHMV for _tmWROVSV _GoEOBYkB and _kUqLnhvJ!"
+})
